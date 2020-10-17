@@ -7,6 +7,7 @@
 - Expo-google-fonts
 - react-native-maps
 - @expo/vector-icons
+- expo-image-picker
 
 ## To run this app
 
