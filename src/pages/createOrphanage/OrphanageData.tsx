@@ -49,6 +49,8 @@ export default function OrphanageData() {
 
     await api.post('orphanages', data);
 
+    alert('Cadastro realizado com sucesso!');
+
     navigation.navigate('OrphanagesMap');
   }
 
